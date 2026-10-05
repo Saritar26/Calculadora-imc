@@ -13,7 +13,7 @@ std::string clasificarImc(double imc) {
  }
  return "Obesidad";
 }
-int main() {
+int main() 
  double peso, estatura;
  std::cout << "Peso (kg): ";
  std::cin >> peso;
