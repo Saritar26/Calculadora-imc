@@ -24,5 +24,8 @@ int main() {
 double imc = calcularImc(peso, estatura);
  std::cout << "IMC: " << imc
  << " (" << clasificarImc(imc) << ")" << std::endl;
- return 0;
+}
+double librasAKilogramos(double libras) {
+ return libras * 0.4536;
+return 0;
 }
