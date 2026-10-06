@@ -1,6 +1,6 @@
 # Calculadora-imc
 Cálculo del índice de masa corporal
-
+-Autor: Sara Sofía Rincón Parra
 Para compilar el archivo de texto, hay varias opciones:
 Primero, si quieres hacerlo más visual, es solo seleccionar arriba el botón que tiene como una mariquita y un símbolo de reproducir y darle een debug.
 Si lo quieres hacer más mecánico o específico, en la Terminal agrega g++ imc.cpp y dale Enter.
